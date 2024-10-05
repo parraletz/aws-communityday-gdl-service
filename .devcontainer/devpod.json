@@ -1,7 +1,0 @@
-{
-  "name": "Nestjs Fastify Template",
-  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bookworm",
-  "workspaceFolder": "/app",
-  "remoteUser": "node",
-  "postCreateCommand": "npm install"
-}
